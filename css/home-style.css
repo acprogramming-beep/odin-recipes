@@ -7,6 +7,8 @@ body {
 
 h1 {
     background-color: #9df9ef;
+    width: 90%;
+    margin: 20px auto;
     border-radius: 25px;
     text-align: center;
     padding: 20px;
